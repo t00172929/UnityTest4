@@ -2860,6 +2860,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CursePullTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 4620046067821441715, guid: 2d66be4a49461284b89800bac5be9291,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d66be4a49461284b89800bac5be9291, type: 3}
 --- !u!1 &433671547
